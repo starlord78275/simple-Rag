@@ -1,0 +1,6 @@
+sentence-transformers
+llama-index
+streamlit
+google-generativeai
+python-dotenv
+scikit-learn
