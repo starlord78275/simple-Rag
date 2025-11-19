@@ -1,7 +1,6 @@
 ***
-```
 This project is based on the Retrieval-Augmented Generation (RAG) tutorial by Tech With Tim, where he implements a RAG system using the OpenAI API. My objective was to build a similar RAG solution leveraging open-source tools, or at least a setup that does not incur any costs, enabling me to develop and run the system without relying on paid APIs
-```
+
 ## README.md
 
 ```markdown
