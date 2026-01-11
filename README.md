@@ -54,19 +54,16 @@ streamlit run app.py
 ## File Structure
 
 ```
+```
 /project-root/
 
 ├── app.py               # Streamlit web UI
-
 ├── data_loader.py       # PDF loading and local embeddings
-
 ├── simple_rag.py        # Gemini API calls + RAG logic
-
 ├── requirements.txt
-
 ├── README.md
-
 └── .env                 # Place Gemini API key here (do NOT upload)
+```
 ```
 
 ---
